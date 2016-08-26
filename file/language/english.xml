@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<language>Language</language>
+	<!-- Button -->
+	<button>
+		<login>Sign</login>
+		<logout>Sign-out</logout>
+		<setting>Settings</setting>
+		<my_profil>My Profil</my_profil>
+		<my_gallery>My Images</my_gallery>
+		<my_game>My Games</my_game>
+		<my_friend>My Friends</my_friend>
+		<close>Close</close>
+		<reset>Reset</reset>
+		<send>Send</send>
+		<save>Save</save>
+		<view>View</view>
+		<update>Update</update>
+		<delete>Delete</delete>
+		<add>Add</add>
+		<message>Message</message>
+	</button>
+
+	<!-- Label -->
+	<show>Showing</show>
+	<username>Username</username>
+	<password>password</password>
+	<form>Form</form>
+	<login>Sign</login>
+	<registrasi>Sign Up</registrasi>
+	<registered>registered</registered>
+	<name>Name</name>
+	<first>First</first>
+	<last>Last</last>
+	<address>Address</address>
+	<phone>Telp</phone>
+	<confirmation>Confirmation</confirmation>
+	<gender>
+		<title>Gender</title>
+		<male>Male</male>
+		<female>Female</female>
+	</gender>
+	<birthday>
+		<date>Date</date>
+		<birth>Birth</birth>
+	</birthday>
+	<valid>valid</valid>
+	<no_valid>not valid</no_valid>
+	<personal>personal</personal>
+	<account>account</account>
+	<agree>I Agree</agree>
+	<wrong>Wrong</wrong>
+	<great>Great</great>
+	<user>User</user>
+	<page>Page</page>
+	<privacy>
+		<line_1>
+			Syarat dan ketentuan ini, sebagaimana bisa saja diubah dari waktu ke waktu, berlaku untuk semua layanan, 
+			langsung atau tidak langsung (melalui distributor) yang tersedia online, melalui perangkat seluler apa pun, 
+			melalui email, atau telepon. Dengan mengakses, menjelajah, dan menggunakan website kami atau salah satu aplikasi 
+			kami melalui platform apa pun (setelahnya disebut “website”) dan/atau dengan menyelesaikan reservasi, 
+			Anda mengetahui dan menyetujui untuk membaca, memahami, dan menyetujui syarat dan ketentuan yang tercantum 
+			di bawah ini (termasuk kebijakan privasi).
+		</line_1>
+		<line_2>
+			Privasi Anda sangatlah penting bagi kami. Kami sangat menghargai Anda karena telah mempercayai kami, 
+			dan karena itu kami berkomitmen untuk melindungi segala informasi pribadi yang Anda berikan pada kami. 
+			Dokumen ini, yang kami perbarui secara berkala, akan menjabarkan bagaimana kami menggunakan dan memproses 
+			informasi pribadi Anda, juga tentang bagaimana kami menggunakan cookie. Dokumen ini juga akan memberitahukan 
+			Anda bagaimana Anda bisa menghubungi kami jika Anda memiliki pertanyaan mengenai informasi pribadi Anda.
+		</line_2>
+	</privacy>
+
+	<!-- Character -->
+	<label>
+		<old>Old</old>
+		<new>New</new>
+		<or>or</or>
+		<publish>publish</publish>
+		<and>and</and>
+		<if>if</if>
+		<not>not</not>
+		<not_yet>not yet</not_yet>
+		<your>your</your>
+		<forget>forget</forget>
+		<reset>reset</reset>
+		<home>Home</home>
+		<enabled>Enabled</enabled>
+		<shortcuts>shortcuts</shortcuts>
+		<game_details>Game Details</game_details>
+		<about>about</about>
+		<category>category</category>
+		<notification>Notifications</notification>
+		<friends>Friends</friends>
+		<list>List</list>
+		<chart>Chart</chart>
+		<for>for</for>
+		<next>next</next>
+		<get>Get</get>
+		<required>Required</required>
+		<rank>Rank</rank>
+		<online>Online</online>
+		<recent>Recent</recent>
+		<player>Player</player>
+		<best>Best</best>
+	</label>
+
+	<!-- Menu -->
+	<menu_side>
+		<manage_user>Manage Users</manage_user>
+		<manage_game>Manage Games</manage_game>
+		<manage_genre>Manage Genres</manage_genre>
+		<manage_access>Manage Access Rule</manage_access>
+		<manage_level>Manage Level</manage_level>
+	</menu_side>
+
+	<!-- Table -->
+	<field>
+		<name>Name User</name>
+		<gender>Gender</gender>
+		<phone>Telp</phone>
+		<address>Address</address>
+		<birthday>Birthday</birthday>
+
+		<game>Game</game>		
+		<description>Description</description>		
+		<viewers>Viewers</viewers>		
+		<likes>Likes</likes>	
+		<download>Download</download>			
+		<condition>Condition</condition>	
+
+		<genre>Genre</genre>		
+		<level>Level</level>		
+		<information>Information</information>		
+		<question>Question</question>		
+		<answer>Answer</answer>
+
+		<files>Files</files>		
+		<version>Version</version>	
+
+		<score>Score</score>	
+		<access_rule>Access Rule</access_rule>		
+	</field>
+
+	<!-- Table -->
+	<option>
+		<detail>Detail</detail>
+		<update>Updates</update>
+		<delete>Deleted</delete>
+		<create>New Data</create>
+	</option>
+
+	<!-- Alert -->
+	<alert>
+		<error_connection>Cek your connection</error_connection>
+		<error_update>Update failed</error_update>
+		<error_save>Save failed</error_save>
+		<error_delete>Deleted failed</error_delete>
+		<error_form>Periksa kembali formulir</error_form>
+		<error_email_user>Periksa kembali email maupun username anda</error_email_user>
+		<error_login>Periksa kembali email, username maupun password anda</error_login>
+		<error_agree>Anda belum mempersetujui persyaratan terlampir</error_agree>
+		<error_not_matched>
+			Mohon di check kembali ! Ada kemungkinan data yang dimasukkan tidak sama dengan yang lain
+		</error_not_matched>
+		<error_available>
+			Mohon di check kembali ! Ada kemungkinan data yang dimasukkan oleh anda tidak tersedia untuk disimpan, ataupun telah digunakan oleh pengguna lain
+		</error_available>
+		<done_update>Data berhasil diperbarui</done_update>
+		<done_save>Data berhasil disimpan</done_save>
+		<done_delete>Data berhasil dihapus</done_delete>
+	</alert>
+</menu>

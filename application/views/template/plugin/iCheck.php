@@ -1,0 +1,2 @@
+<link href="<?php echo base_url(); ?>assets/template/joli/js/plugins/icheck/skins/flat/red.css" rel="stylesheet">
+<script type='text/javascript' src="<?php echo base_url(); ?>assets/template/joli/js/plugins/icheck/icheck.js"></script>

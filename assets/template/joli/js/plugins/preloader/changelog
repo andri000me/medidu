@@ -1,0 +1,41 @@
+# Changelog
+jQuery plugin that generates animated spinners.
+
+##### 0.1.5
+Added new option:
+	-monocolor
+The 'monocolor' option lets you load a jRoll spinner with only one color. If the color array has more than one color, only the first one will be used.
+Added new animations:
+	-stackedsquares
+	-3dots
+	-popdot
+##### 0.1.4
+Fixed 'wave' & 'gyroscope' animation scaling issues
+Added new animations:
+	-jumpdots
+	-hordots
+	-verdots
+	-spreaddots
+	-trailedspreaddots
+	-circledots
+	-squares
+	-3Dsquares
+
+##### 0.1.3
+Added new animations `wave`
+
+##### 0.1.2
+Tweaked `heartbeat` animation
+Added new animations `halfslicedspinner`
+Added new animations `gyroscope`
+Cleaned JS.
+
+##### 0.1.1
+Added new animation `slicedspinner`
+Cleaned CSS and JS.
+
+### 0.1
+jRoll published with 3 available options: `radius` `animation` and `colors`.
+`radius` option takes integers and interpretes it at pixels
+Available animations are `pulse` and `heartbeat`.
+`colors` takes an array of colors. At the moment, putting more than 3 colors in the array is pointless.
